@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <img alt="tamntn" src="./static/tamntn-removebg.png" width="50%" />
+</p>
