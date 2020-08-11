@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img alt="tamntn" src="./static/tamntn-removebg.png" width="50%" />
+    <img alt="tamntn" src="https://raw.githubusercontent.com/tamntn/tamntn/master/static/tamntn-removebg.png" width="50%" />
 </p>
